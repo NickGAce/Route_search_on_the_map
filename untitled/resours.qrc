@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resours/fonts/Roboto-Medium.ttf</file>
+        <file>resours/fonts/Roboto-MediumItalic.ttf</file>
+        <file>resours/images/9bedd654e2f6100d1c635176b829f36d.jpeg</file>
+        <file>resours/images/E10F3125368E336870F9C0848038DC26.png</file>
+        <file>resours/images/leti_logo_krug-eng_bel.png</file>
+        <file>resours/images/image(10).png</file>
+        <file>resours/images/image(10)(1).png</file>
+        <file>resours/images/forest(1).png</file>
+        <file>resours/images/grass.png</file>
+        <file>resours/images/peaks.png</file>
+        <file>resours/images/waterfall.png</file>
+        <file>resours/images/swamp.png</file>
+        <file>resours/images/black-flag.png</file>
+        <file>resours/images/walk.png</file>
+    </qresource>
+</RCC>
